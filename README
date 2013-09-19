@@ -1,0 +1,5 @@
+Arduino sketch to use with XBMC plugin Boblight. Runs well on Arduino Uno.
+
+uses https://code.google.com/p/fastspi/
+
+Check boblight.conf for example setup.
